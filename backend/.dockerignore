@@ -1,0 +1,6 @@
+venv
+**pycache**
+.env
+uploads
+generated_audio
+*.pyc
